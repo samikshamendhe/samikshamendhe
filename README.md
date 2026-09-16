@@ -17,18 +17,18 @@ Programming & Data
 - NumPy
 - Jupyter Notebook
 
-Machine Learning**
+Machine Learning
 - Scikit-learn
 - Classification
 - Clustering
 - Recommendation Systems
 - Natural Language Processing
 
-Data Visualization**
+Data Visualization
 - Power BI
 - Microsoft Excel
 
-**Other**
+Other
 - Node.js
 - Git & GitHub
 - Generative AI & LLM fundamentals
@@ -39,9 +39,9 @@ Data Visualization**
 🎬 CineMatch — Movie Recommendation System
 A movie recommendation project built using collaborative filtering techniques to explore user preferences and generate movie recommendations.
 
-**Focus:** Python • Pandas • NumPy • Machine Learning • Recommendation Systems
+Focus: Python • Pandas • NumPy • Machine Learning • Recommendation Systems
 
-[View Project →]samikshamendhe/CineMatch_Project
+[View Project →] samikshamendhe/CineMatch_Project
 
  💬 SentiScope — Sentiment Analysis
 A sentiment analysis application that analyzes customer reviews and predicts their sentiment using machine learning and natural language processing.
