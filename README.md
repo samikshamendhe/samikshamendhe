@@ -10,7 +10,7 @@ I enjoy working with datasets, exploring patterns, building practical ML project
 
  🛠️ Skills & Technologies
 
-Programming & Data**
+Programming & Data
 - Python
 - SQL
 - Pandas
